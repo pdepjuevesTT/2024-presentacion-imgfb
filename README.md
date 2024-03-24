@@ -1,10 +1,11 @@
-# presentacion-
+# Presentacion
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+### Mi nombre es Ariel Limachi, vivo en la zona de Villa Luro, CABA
+#### Me gustan
+ - la música
+ - la fotografía
+ - y la tecnología
 
-Ya saben usar git!
+Muestro una foto de la ultima sesion a la que asistí
+![Quizas demasiada resolución](/sesionmarzo1803.png)
+
